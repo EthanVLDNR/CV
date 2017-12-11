@@ -343,6 +343,10 @@ font-family: 'Dosis', sans-serif;
 	line-height: 33px;
 	font-weight: 400;
 }
+#pic {
+  width: 220px;
+  height: 320px;
+}
 
 .annee {
 	font-weight: bold;
